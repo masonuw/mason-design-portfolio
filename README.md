@@ -8,6 +8,8 @@ I built this project to function as my own personal portfolio, as I do not have 
 
 No installation required. Simply navigate to the website to view it.
 
+Link: https://masonuw.github.io/mason-design-portfolio/
+
 ## Usage
 
 The instructions are very minimal. Simply scroll the page either using a mouse or through use of the navigation buttons in the top right, and to view a project click on the corresponding image. To contact me personally, use the GitHub link on the bottom of the page or the email listed.
