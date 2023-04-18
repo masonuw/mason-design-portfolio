@@ -75,6 +75,10 @@
     height: 500px;
 }
 
+#project-2-img {
+    width: 500px;
+    height: 100%;
+}
 #project-rest-div {
     display: flex;
     align-items: center;
